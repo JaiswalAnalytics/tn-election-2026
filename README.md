@@ -110,8 +110,7 @@ The top 2 candidates per constituency were extracted after sorting by votes desc
 
 ## Pitch Deck
 
-The full 10-slide stakeholder deck is available in the repo:
-**Decoding-the-2026-Tamil-Nadu-Election.pdf**
+📄 [View the Full Stakeholder Deck](./Decoding-the-2026-Tamil-Nadu-Election%20Deck.pdf)
 
 Slides covered:
 1. Cover
