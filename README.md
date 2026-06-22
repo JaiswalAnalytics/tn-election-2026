@@ -143,5 +143,5 @@ This project was completed as part of the **Codebasics Resume Project Challenge 
 **Shubham Jaiswal | Data Analyst**
 Open to remote data analyst roles
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/iam-shubhamjaiswal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/iam-shubhamjaiswal)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/JaiswalAnalytics)
